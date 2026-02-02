@@ -1,1 +1,45 @@
-/*  your css code here. If applicable */
+body{
+dispay:flex;
+justify-content:center;
+align-items:center;
+margin:0px;
+	
+}
+.hero{
+	display:flex;
+justify-content:flex-start;
+	
+}
+img{
+/* margin:50px; */
+	width:400px;
+height:100x;
+object-fit: cover;
+}
+h1{
+margin-left:90px;
+ font-size: 20px;
+margin-top:80px;
+font-family:sans-serif;
+
+	
+}
+h5{
+margin-top:10px;
+	margin-left:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
