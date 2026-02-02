@@ -6,14 +6,15 @@ margin:0px;
 	
 }
 .hero{
-	display:flex;
+	 display:flex;
 justify-content:flex-start;
-	
-}
+align-items:flex-start;
+	 
+} 
 img{
 /* margin:50px; */
 	width:400px;
-height:100x;
+height:300px;
 object-fit: cover;
 }
 h1{
@@ -28,7 +29,12 @@ h5{
 margin-top:10px;
 	margin-left:30px;
 }
-
+button{
+	padding:10px;
+background-color:red;
+border-radius:10px;
+margin-left:100px;
+}
 
 
 
